@@ -1,0 +1,1296 @@
+2025-02-26 12:02:33.948 -03:00 [INF] Iniciando fluxo de leitura dos arquivos XML!
+2025-02-26 12:02:34.113 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.114 -03:00 [INF] Número de documento inválido: 06376669000
+2025-02-26 12:02:34.114 -03:00 [INF] Número de documento inválido: 13708309334
+2025-02-26 12:02:34.114 -03:00 [INF] Número de documento inválido: 04129337291
+2025-02-26 12:02:34.114 -03:00 [INF] Número de documento inválido: 06107056000
+2025-02-26 12:02:34.115 -03:00 [INF] Número de documento inválido: 57025850353
+2025-02-26 12:02:34.115 -03:00 [INF] Número de documento inválido: 03220593331
+2025-02-26 12:02:34.115 -03:00 [INF] Número de documento inválido: 08498639153
+2025-02-26 12:02:34.115 -03:00 [INF] Número de documento inválido: 15766670378
+2025-02-26 12:02:34.115 -03:00 [INF] Número de documento inválido: 03920593331
+2025-02-26 12:02:34.115 -03:00 [INF] Número de documento inválido: 06168910000120
+2025-02-26 12:02:34.115 -03:00 [INF] Número de documento inválido: 00429963391
+2025-02-26 12:02:34.116 -03:00 [INF] Número de documento inválido: 04205570304
+2025-02-26 12:02:34.116 -03:00 [INF] Número de documento inválido: 05561126372
+2025-02-26 12:02:34.116 -03:00 [INF] Número de documento inválido: 09596868334
+2025-02-26 12:02:34.116 -03:00 [INF] Número de documento inválido: 09540223991
+2025-02-26 12:02:34.116 -03:00 [INF] Número de documento inválido: 68096180773
+2025-02-26 12:02:34.116 -03:00 [INF] Número de documento inválido: 04443434543
+2025-02-26 12:02:34.116 -03:00 [INF] Número de documento inválido: 04443434543
+2025-02-26 12:02:34.116 -03:00 [INF] Número de documento inválido: 13822370510
+2025-02-26 12:02:34.116 -03:00 [INF] Número de documento inválido: 20619790234
+2025-02-26 12:02:34.117 -03:00 [INF] Número de documento inválido: 19680330300
+2025-02-26 12:02:34.117 -03:00 [INF] Número de documento inválido: 02914422503
+2025-02-26 12:02:34.117 -03:00 [INF] Número de documento inválido: 05483922368
+2025-02-26 12:02:34.117 -03:00 [INF] Número de documento inválido: 90168908815
+2025-02-26 12:02:34.117 -03:00 [INF] Número de documento inválido: 20106843523
+2025-02-26 12:02:34.117 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.117 -03:00 [INF] Número de documento inválido: 06482313791
+2025-02-26 12:02:34.117 -03:00 [INF] Número de documento inválido: 35104250000110
+2025-02-26 12:02:34.118 -03:00 [INF] Número de documento inválido: 25415653472
+2025-02-26 12:02:34.119 -03:00 [INF] Número de documento inválido: 04463137343
+2025-02-26 12:02:34.119 -03:00 [INF] Número de documento inválido: 87909880718
+2025-02-26 12:02:34.119 -03:00 [INF] Número de documento inválido: 06735967378
+2025-02-26 12:02:34.119 -03:00 [INF] Número de documento inválido: 75945675387
+2025-02-26 12:02:34.120 -03:00 [INF] Número de documento inválido: 10648115387
+2025-02-26 12:02:34.120 -03:00 [INF] Número de documento inválido: 02020408373
+2025-02-26 12:02:34.120 -03:00 [INF] Número de documento inválido: 02020408373
+2025-02-26 12:02:34.120 -03:00 [INF] Número de documento inválido: 02020408373
+2025-02-26 12:02:34.120 -03:00 [INF] Número de documento inválido: 02020408373
+2025-02-26 12:02:34.120 -03:00 [INF] Número de documento inválido: 02020408373
+2025-02-26 12:02:34.120 -03:00 [INF] Número de documento inválido: 02020408373
+2025-02-26 12:02:34.120 -03:00 [INF] Número de documento inválido: 02020408373
+2025-02-26 12:02:34.120 -03:00 [INF] Número de documento inválido: 02020408373
+2025-02-26 12:02:34.120 -03:00 [INF] Número de documento inválido: 02020408373
+2025-02-26 12:02:34.120 -03:00 [INF] Número de documento inválido: 02020408373
+2025-02-26 12:02:34.120 -03:00 [INF] Número de documento inválido: 04055732033
+2025-02-26 12:02:34.120 -03:00 [INF] Número de documento inválido: 63107198003
+2025-02-26 12:02:34.121 -03:00 [INF] Número de documento inválido: 53253021237
+2025-02-26 12:02:34.121 -03:00 [INF] Número de documento inválido: 02020408373
+2025-02-26 12:02:34.121 -03:00 [INF] Número de documento inválido: 04653345268
+2025-02-26 12:02:34.121 -03:00 [INF] Número de documento inválido: 04643041046
+2025-02-26 12:02:34.121 -03:00 [INF] Número de documento inválido: 20054676753
+2025-02-26 12:02:34.121 -03:00 [INF] Número de documento inválido: 72067915083
+2025-02-26 12:02:34.121 -03:00 [INF] Número de documento inválido: 00253524353
+2025-02-26 12:02:34.121 -03:00 [INF] Número de documento inválido: 02914422503
+2025-02-26 12:02:34.122 -03:00 [INF] Número de documento inválido: 04030822373
+2025-02-26 12:02:34.122 -03:00 [INF] Número de documento inválido: 03247370397
+2025-02-26 12:02:34.122 -03:00 [INF] Número de documento inválido: 18622559384
+2025-02-26 12:02:34.122 -03:00 [INF] Número de documento inválido: 05418863300
+2025-02-26 12:02:34.122 -03:00 [INF] Número de documento inválido: 05418863300
+2025-02-26 12:02:34.122 -03:00 [INF] Número de documento inválido: 05418863300
+2025-02-26 12:02:34.123 -03:00 [INF] Número de documento inválido: 16068420330
+2025-02-26 12:02:34.123 -03:00 [INF] Número de documento inválido: 02020408373
+2025-02-26 12:02:34.123 -03:00 [INF] Número de documento inválido: 02020408373
+2025-02-26 12:02:34.123 -03:00 [INF] Número de documento inválido: 82502280015
+2025-02-26 12:02:34.123 -03:00 [INF] Número de documento inválido: 68883580081
+2025-02-26 12:02:34.123 -03:00 [INF] Número de documento inválido: 04653345268
+2025-02-26 12:02:34.123 -03:00 [INF] Número de documento inválido: 00000000000001
+2025-02-26 12:02:34.124 -03:00 [INF] Número de documento inválido: 15838394504
+2025-02-26 12:02:34.124 -03:00 [INF] Número de documento inválido: 03246370379
+2025-02-26 12:02:34.124 -03:00 [INF] Número de documento inválido: 08947302372
+2025-02-26 12:02:34.124 -03:00 [INF] Número de documento inválido: 03239765334
+2025-02-26 12:02:34.125 -03:00 [INF] Número de documento inválido: 15478936391
+2025-02-26 12:02:34.125 -03:00 [INF] Número de documento inválido: 72863832196
+2025-02-26 12:02:34.126 -03:00 [INF] Número de documento inválido: 06891173834
+2025-02-26 12:02:34.126 -03:00 [INF] Número de documento inválido: 00402147000180
+2025-02-26 12:02:34.126 -03:00 [INF] Número de documento inválido: 06354586000160
+2025-02-26 12:02:34.126 -03:00 [INF] Número de documento inválido: 10719800363
+2025-02-26 12:02:34.126 -03:00 [INF] Número de documento inválido: 06354586000160
+2025-02-26 12:02:34.126 -03:00 [INF] Número de documento inválido: 02007152349
+2025-02-26 12:02:34.126 -03:00 [INF] Número de documento inválido: 02007152349
+2025-02-26 12:02:34.126 -03:00 [INF] Número de documento inválido: 02007152349
+2025-02-26 12:02:34.127 -03:00 [INF] Número de documento inválido: 64325684353
+2025-02-26 12:02:34.127 -03:00 [INF] Número de documento inválido: 19714672320
+2025-02-26 12:02:34.127 -03:00 [INF] Número de documento inválido: 19883073387
+2025-02-26 12:02:34.128 -03:00 [INF] Número de documento inválido: 20634157391
+2025-02-26 12:02:34.128 -03:00 [INF] Número de documento inválido: 20634412553
+2025-02-26 12:02:34.128 -03:00 [INF] Número de documento inválido: 29302647353
+2025-02-26 12:02:34.129 -03:00 [INF] Número de documento inválido: 03708799320
+2025-02-26 12:02:34.129 -03:00 [INF] Número de documento inválido: 17993365320
+2025-02-26 12:02:34.129 -03:00 [INF] Número de documento inválido: 46636652320
+2025-02-26 12:02:34.130 -03:00 [INF] Número de documento inválido: 25297058369
+2025-02-26 12:02:34.131 -03:00 [INF] Número de documento inválido: 97903409149
+2025-02-26 12:02:34.131 -03:00 [INF] Número de documento inválido: 14577435320
+2025-02-26 12:02:34.131 -03:00 [INF] Número de documento inválido: 12984752366
+2025-02-26 12:02:34.131 -03:00 [INF] Número de documento inválido: 33123871353
+2025-02-26 12:02:34.131 -03:00 [INF] Número de documento inválido: 00793144104
+2025-02-26 12:02:34.131 -03:00 [INF] Número de documento inválido: 02914422503
+2025-02-26 12:02:34.131 -03:00 [INF] Número de documento inválido: 04943398158
+2025-02-26 12:02:34.131 -03:00 [INF] Número de documento inválido: 04001429727
+2025-02-26 12:02:34.132 -03:00 [INF] Número de documento inválido: 15232038711
+2025-02-26 12:02:34.132 -03:00 [INF] Número de documento inválido: 09460553572
+2025-02-26 12:02:34.132 -03:00 [INF] Número de documento inválido: 35448660191
+2025-02-26 12:02:34.132 -03:00 [INF] Número de documento inválido: 25004344372
+2025-02-26 12:02:34.132 -03:00 [INF] Número de documento inválido: 10841370306
+2025-02-26 12:02:34.133 -03:00 [INF] Número de documento inválido: 05463210353
+2025-02-26 12:02:34.133 -03:00 [INF] Número de documento inválido: 10700885249
+2025-02-26 12:02:34.133 -03:00 [INF] Número de documento inválido: 23601675353
+2025-02-26 12:02:34.133 -03:00 [INF] Número de documento inválido: 05459930349
+2025-02-26 12:02:34.133 -03:00 [INF] Número de documento inválido: 05459930349
+2025-02-26 12:02:34.133 -03:00 [INF] Número de documento inválido: 17308368304
+2025-02-26 12:02:34.134 -03:00 [INF] Número de documento inválido: 06286068353
+2025-02-26 12:02:34.134 -03:00 [INF] Número de documento inválido: 05654999000140
+2025-02-26 12:02:34.134 -03:00 [INF] Número de documento inválido: 14978423361
+2025-02-26 12:02:34.135 -03:00 [INF] Número de documento inválido: 18028338372
+2025-02-26 12:02:34.135 -03:00 [INF] Número de documento inválido: 72423137220
+2025-02-26 12:02:34.135 -03:00 [INF] Número de documento inválido: 06274757000
+2025-02-26 12:02:34.135 -03:00 [INF] Número de documento inválido: 06274757000
+2025-02-26 12:02:34.135 -03:00 [INF] Número de documento inválido: 06274757000
+2025-02-26 12:02:34.135 -03:00 [INF] Número de documento inválido: 06376669000
+2025-02-26 12:02:34.135 -03:00 [INF] Número de documento inválido: 02007152349
+2025-02-26 12:02:34.136 -03:00 [INF] Número de documento inválido: 23675213753
+2025-02-26 12:02:34.136 -03:00 [INF] Número de documento inválido: 11087322304
+2025-02-26 12:02:34.136 -03:00 [INF] Número de documento inválido: 75025177334
+2025-02-26 12:02:34.136 -03:00 [INF] Número de documento inválido: 00835342305
+2025-02-26 12:02:34.136 -03:00 [INF] Número de documento inválido: 02914422503
+2025-02-26 12:02:34.136 -03:00 [INF] Número de documento inválido: 05418863300
+2025-02-26 12:02:34.137 -03:00 [INF] Número de documento inválido: 15893214353
+2025-02-26 12:02:34.137 -03:00 [INF] Número de documento inválido: 00000
+2025-02-26 12:02:34.138 -03:00 [INF] Número de documento inválido: 0000
+2025-02-26 12:02:34.138 -03:00 [INF] Número de documento inválido: 000
+2025-02-26 12:02:34.138 -03:00 [INF] Número de documento inválido: 000000
+2025-02-26 12:02:34.138 -03:00 [INF] Número de documento inválido: 49896750379
+2025-02-26 12:02:34.139 -03:00 [INF] Número de documento inválido: 33663012334
+2025-02-26 12:02:34.139 -03:00 [INF] Número de documento inválido: 02675506000
+2025-02-26 12:02:34.139 -03:00 [INF] Número de documento inválido: 92550030368
+2025-02-26 12:02:34.140 -03:00 [INF] Número de documento inválido: 06376669000
+2025-02-26 12:02:34.140 -03:00 [INF] Número de documento inválido: 00000000000001
+2025-02-26 12:02:34.140 -03:00 [INF] Número de documento inválido: 18022579387
+2025-02-26 12:02:34.140 -03:00 [INF] Número de documento inválido: 12136248000
+2025-02-26 12:02:34.140 -03:00 [INF] Número de documento inválido: 12136248000
+2025-02-26 12:02:34.141 -03:00 [INF] Número de documento inválido: 36394748372
+2025-02-26 12:02:34.141 -03:00 [INF] Número de documento inválido: 20549321387
+2025-02-26 12:02:34.142 -03:00 [INF] Número de documento inválido: 83246742349
+2025-02-26 12:02:34.142 -03:00 [INF] Número de documento inválido: 03279772353
+2025-02-26 12:02:34.142 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.142 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.142 -03:00 [INF] Número de documento inválido: 00623151301
+2025-02-26 12:02:34.143 -03:00 [INF] Número de documento inválido: 00842827000
+2025-02-26 12:02:34.143 -03:00 [INF] Número de documento inválido: 15775208313
+2025-02-26 12:02:34.143 -03:00 [INF] Número de documento inválido: 25719505353
+2025-02-26 12:02:34.143 -03:00 [INF] Número de documento inválido: 04653345268
+2025-02-26 12:02:34.162 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.162 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.162 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.162 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.162 -03:00 [INF] Número de documento inválido: 33126766204
+2025-02-26 12:02:34.163 -03:00 [INF] Número de documento inválido: 05418863300
+2025-02-26 12:02:34.163 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.163 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.163 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.163 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.163 -03:00 [INF] Número de documento inválido: 57025850353
+2025-02-26 12:02:34.163 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.163 -03:00 [INF] Número de documento inválido: 06354586000160
+2025-02-26 12:02:34.163 -03:00 [INF] Número de documento inválido: 06376669000
+2025-02-26 12:02:34.163 -03:00 [INF] Número de documento inválido: 06354586000160
+2025-02-26 12:02:34.163 -03:00 [INF] Número de documento inválido: 06354586000160
+2025-02-26 12:02:34.164 -03:00 [INF] Número de documento inválido: 05418863300
+2025-02-26 12:02:34.164 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.164 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.164 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.164 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.164 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.165 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.165 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.165 -03:00 [INF] Número de documento inválido: 46587970304
+2025-02-26 12:02:34.165 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.165 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.165 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.165 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.165 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.165 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.165 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.165 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.165 -03:00 [INF] Número de documento inválido: 14882612373
+2025-02-26 12:02:34.165 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.165 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.165 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.165 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.165 -03:00 [INF] Número de documento inválido: 06376669000
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 72423137220
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.166 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.167 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.168 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 25012573304
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 33555920372
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.169 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 29224905391
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 01100487363
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 12136248000
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.170 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 09054793000
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.171 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.172 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 57025850353
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 29458340488
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 05418863300
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 05418863300
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 05418863300
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.173 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.174 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 00770728336
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.175 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 01612348000
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.176 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.177 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.178 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.179 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.180 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.181 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.182 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 05459495400
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 49044631737
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.183 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 11283341000147
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 57458778204
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.184 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 25415653472
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 16531876304
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 57025850353
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 57025850353
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.185 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.186 -03:00 [INF] Número de documento inválido: 02615197334
+2025-02-26 12:02:34.187 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.187 -03:00 [INF] Número de documento inválido: 07237373012
+2025-02-26 12:02:34.187 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.187 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.188 -03:00 [INF] Número de documento inválido: 72685664304
+2025-02-26 12:02:34.188 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.188 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.188 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.188 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.189 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.190 -03:00 [INF] Número de documento inválido: 09054781000
+2025-02-26 12:02:34.190 -03:00 [INF] Número de documento inválido: 17125269315
+2025-02-26 12:02:34.191 -03:00 [INF] Número de documento inválido: 02368052312
+2025-02-26 12:02:34.191 -03:00 [INF] Número de documento inválido: 98096218391
+2025-02-26 12:02:34.191 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.192 -03:00 [INF] Número de documento inválido: 25012573304
+2025-02-26 12:02:34.192 -03:00 [INF] Número de documento inválido: 01611836000
+2025-02-26 12:02:34.192 -03:00 [INF] Número de documento inválido: 06376669000
+2025-02-26 12:02:34.193 -03:00 [INF] Número de documento inválido: 06354468000
+2025-02-26 12:02:34.193 -03:00 [INF] Número de documento inválido: 07237373012
+2025-02-26 12:02:34.194 -03:00 [INF] Número de documento inválido: 12136248000
+2025-02-26 12:02:34.194 -03:00 [INF] Número de documento inválido: 15236900000
+2025-02-26 12:02:34.194 -03:00 [INF] Número de documento inválido: 15236900000
+2025-02-26 12:02:34.194 -03:00 [INF] Número de documento inválido: 20284836000
+2025-02-26 12:02:34.194 -03:00 [INF] Número de documento inválido: 15236900000
+2025-02-26 12:02:34.194 -03:00 [INF] Número de documento inválido: 15236900000
+2025-02-26 12:02:34.194 -03:00 [INF] Número de documento inválido: 15236900000
+2025-02-26 12:02:34.194 -03:00 [INF] Número de documento inválido: 15236900000
+2025-02-26 12:02:34.194 -03:00 [INF] Número de documento inválido: 15236900000
+2025-02-26 12:02:34.194 -03:00 [INF] Número de documento inválido: 66123992372
+2025-02-26 12:02:34.194 -03:00 [INF] Número de documento inválido: 98371347397
+2025-02-26 12:02:34.195 -03:00 [INF] Número de documento inválido: 15236900000
+2025-02-26 12:02:34.195 -03:00 [INF] Número de documento inválido: 15236900000
+2025-02-26 12:02:34.195 -03:00 [INF] Número de documento inválido: 15236900000
+2025-02-26 12:02:34.195 -03:00 [INF] Número de documento inválido: 15236900000
+2025-02-26 12:02:34.197 -03:00 [INF] Número de documento inválido: 9121599432
+2025-02-26 12:02:34.198 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:02:34.198 -03:00 [INF] Número de documento inválido: 
+2025-02-26 12:03:23.002 -03:00 [INF] 9462 registros foram inseridos na base com sucesso
+2025-02-26 12:03:23.009 -03:00 [INF] O arquivo m01_a_m3500_26-02-2025-BDL.xml foi processado com sucesso!
+2025-02-26 12:03:23.576 -03:00 [INF] 500 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:04:29.755 -03:00 [INF] 500 registros foram atualizados na base com sucesso
+2025-02-26 12:04:30.238 -03:00 [INF] 500 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:05:34.165 -03:00 [INF] 500 registros foram atualizados na base com sucesso
+2025-02-26 12:05:34.638 -03:00 [INF] 500 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:06:38.075 -03:00 [INF] 500 registros foram atualizados na base com sucesso
+2025-02-26 12:06:38.534 -03:00 [INF] 500 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:07:42.337 -03:00 [INF] 500 registros foram atualizados na base com sucesso
+2025-02-26 12:07:42.787 -03:00 [INF] 500 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:08:47.516 -03:00 [INF] 500 registros foram atualizados na base com sucesso
+2025-02-26 12:08:48.039 -03:00 [INF] 500 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:09:53.168 -03:00 [INF] 500 registros foram atualizados na base com sucesso
+2025-02-26 12:09:53.617 -03:00 [INF] 500 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:10:58.752 -03:00 [INF] 500 registros foram atualizados na base com sucesso
+2025-02-26 12:10:59.247 -03:00 [INF] 500 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:12:04.529 -03:00 [INF] 500 registros foram atualizados na base com sucesso
+2025-02-26 12:12:04.973 -03:00 [INF] 500 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:13:10.840 -03:00 [INF] 500 registros foram atualizados na base com sucesso
+2025-02-26 12:13:11.320 -03:00 [INF] 500 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:14:16.337 -03:00 [INF] 500 registros foram atualizados na base com sucesso
+2025-02-26 12:14:16.793 -03:00 [INF] 500 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:15:21.909 -03:00 [INF] 500 registros foram atualizados na base com sucesso
+2025-02-26 12:15:22.367 -03:00 [INF] 500 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:16:27.268 -03:00 [INF] 500 registros foram atualizados na base com sucesso
+2025-02-26 12:16:27.739 -03:00 [INF] 500 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:17:33.798 -03:00 [INF] 500 registros foram atualizados na base com sucesso
+2025-02-26 12:17:34.258 -03:00 [INF] 500 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:18:39.294 -03:00 [INF] 500 registros foram atualizados na base com sucesso
+2025-02-26 12:18:39.758 -03:00 [INF] 500 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:19:45.101 -03:00 [INF] 500 registros foram atualizados na base com sucesso
+2025-02-26 12:19:45.560 -03:00 [INF] 500 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:20:55.892 -03:00 [INF] 500 registros foram atualizados na base com sucesso
+2025-02-26 12:20:56.380 -03:00 [INF] 500 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:22:07.042 -03:00 [INF] 500 registros foram atualizados na base com sucesso
+2025-02-26 12:22:07.495 -03:00 [INF] 500 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:23:12.833 -03:00 [INF] 500 registros foram atualizados na base com sucesso
+2025-02-26 12:23:13.298 -03:00 [INF] 462 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:24:13.385 -03:00 [INF] 462 registros foram atualizados na base com sucesso
+2025-02-26 12:24:13.894 -03:00 [INF] 0 foram coletados e serão enviados para o Google DataStore
+2025-02-26 12:24:13.897 -03:00 [INF] Enviando emails!
+2025-02-26 12:24:15.533 -03:00 [INF] Email enviado com sucesso para os seguintes emails: jeffball20@hotmail.com,2oficio.esperantinopolis@gmail.com

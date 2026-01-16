@@ -1,0 +1,6 @@
+2024-06-12 15:55:24.477 -03:00 [INF] Gravando configurações de email
+2024-06-12 15:55:54.390 -03:00 [INF] Ocorreu um erro ao obter o token na requisição: BadRequest
+2024-06-12 15:55:54.390 -03:00 [INF] Ocorreu um erro ao obter as chaves na requisição: BadRequest
+2024-06-12 15:57:35.058 -03:00 [INF] Gravando configurações de email
+2024-06-12 15:57:41.888 -03:00 [INF] Ocorreu um erro ao obter o token na requisição: BadRequest
+2024-06-12 15:57:41.888 -03:00 [INF] Ocorreu um erro ao obter as chaves na requisição: BadRequest

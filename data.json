@@ -1,0 +1,17 @@
+{
+  "empresas": [
+    {
+      "id": 1,
+      "nome": "Cartório - Ofício Único",
+      "diretorio_index": "index.php"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "empresa_id": 1,
+      "usuario": "ADMIN",
+      "senha": "rr6rh3264f9"
+    }
+  ]
+}

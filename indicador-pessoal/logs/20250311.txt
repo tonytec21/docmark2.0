@@ -1,0 +1,15 @@
+2025-03-11 12:02:07.588 -03:00 [INF] Iniciando fluxo de leitura dos arquivos XML!
+2025-03-11 12:02:07.621 -03:00 [INF] Não haviam XML's para serem processados!
+2025-03-11 12:02:08.198 -03:00 [INF] 0 foram coletados e serão enviados para o Google DataStore
+2025-03-11 12:02:08.201 -03:00 [INF] Não haviam registros a serem enviados para o Google DataStore!
+2025-03-11 12:02:08.223 -03:00 [INF] Arquivos XML processados!
+2025-03-11 12:02:09.133 -03:00 [INF] Email enviado com sucesso para os seguintes emails: jeffball20@hotmail.com,2oficio.esperantinopolis@gmail.com
+2025-03-11 12:02:28.736 -03:00 [INF] Serviço de controle de versão iniciado com sucesso!
+2025-03-11 14:45:25.245 -03:00 [INF] Serviço do IPS iniciado com êxito!
+2025-03-11 17:00:27.716 -03:00 [INF] Iniciando fluxo de leitura dos arquivos XML!
+2025-03-11 17:00:27.814 -03:00 [INF] Não haviam XML's para serem processados!
+2025-03-11 17:00:28.328 -03:00 [INF] 0 foram coletados e serão enviados para o Google DataStore
+2025-03-11 17:00:29.328 -03:00 [INF] Email enviado com sucesso para os seguintes emails: jeffball20@hotmail.com,2oficio.esperantinopolis@gmail.com
+2025-03-11 17:00:29.432 -03:00 [INF] Não haviam registros a serem enviados para o Google DataStore!
+2025-03-11 17:00:29.452 -03:00 [INF] Arquivos XML processados!
+2025-03-11 17:00:49.849 -03:00 [INF] Serviço de controle de versão iniciado com sucesso!

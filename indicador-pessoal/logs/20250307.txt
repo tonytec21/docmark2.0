@@ -1,0 +1,8 @@
+2025-03-07 12:02:58.266 -03:00 [INF] Iniciando fluxo de leitura dos arquivos XML!
+2025-03-07 12:02:58.316 -03:00 [INF] Não haviam XML's para serem processados!
+2025-03-07 12:02:58.907 -03:00 [INF] 0 foram coletados e serão enviados para o Google DataStore
+2025-03-07 12:02:58.910 -03:00 [INF] Não haviam registros a serem enviados para o Google DataStore!
+2025-03-07 12:02:58.936 -03:00 [INF] Arquivos XML processados!
+2025-03-07 12:02:59.865 -03:00 [INF] Email enviado com sucesso para os seguintes emails: jeffball20@hotmail.com,2oficio.esperantinopolis@gmail.com
+2025-03-07 12:03:19.450 -03:00 [INF] Serviço de controle de versão iniciado com sucesso!
+2025-03-07 14:30:36.363 -03:00 [INF] Serviço do IPS iniciado com êxito!

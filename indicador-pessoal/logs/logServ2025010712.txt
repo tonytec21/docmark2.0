@@ -1,0 +1,3 @@
+2025-01-07 12:00:39.188 -03:00 [INF] Gravando configurações de email
+2025-01-07 12:00:40.214 -03:00 [INF] Ocorreu um erro ao obter as chaves na requisição: BadRequest
+2025-01-07 12:00:45.488 -03:00 [INF] Gravando configurações de horário e diretórios
