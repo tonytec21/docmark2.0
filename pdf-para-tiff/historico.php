@@ -52,6 +52,25 @@ if(isset($_FILES['xml_file'])) {
 // Meses em português
 $meses = [1 => 'janeiro', 2 => 'fevereiro', 3 => 'março', 4 => 'abril', 5 => 'maio', 6 => 'junho',
     7 => 'julho', 8 => 'agosto', 9 => 'setembro', 10 => 'outubro', 11 => 'novembro', 12 => 'dezembro'];
+
+// Definir filtros padrão (última semana) se não houver filtros na URL
+$filtroAplicado = isset($_GET['dtinicial']) || isset($_GET['dtfinal']) || isset($_GET['matricula']);
+$mostrarTodos = isset($_GET['todos']) && $_GET['todos'] == '1';
+
+if (!$filtroAplicado && !$mostrarTodos) {
+    // Por padrão, mostrar última semana
+    $dataFinalPadrao = date('Y-m-d');
+    $dataInicialPadrao = date('Y-m-d', strtotime('-7 days'));
+} else {
+    $dataInicialPadrao = $_GET['dtinicial'] ?? '';
+    $dataFinalPadrao = $_GET['dtfinal'] ?? '';
+}
+
+$matriculaPesquisa = $_GET['matricula'] ?? '';
+
+// Contar registros filtrados
+$totalRegistros = count($arquivos);
+$registrosFiltrados = 0;
 ?>
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -85,11 +104,18 @@ $meses = [1 => 'janeiro', 2 => 'fevereiro', 3 => 'março', 4 => 'abril', 5 => 'm
         .action-card h4 { color: var(--color-accent-light); margin-bottom: 12px; display: flex; align-items: center; gap: 10px; }
         .action-card p { color: var(--color-gray-400); font-size: 0.875rem; margin-bottom: 16px; }
         .quick-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 24px; padding-top: 24px; border-top: 1px solid rgba(255, 255, 255, 0.08); }
-        .filter-row { display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-end; margin-bottom: 24px; }
-        .filter-row .form-group { flex: 1; min-width: 150px; margin-bottom: 0; }
+        .filter-row { display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-end; margin-bottom: 24px; padding-bottom: 24px; border-bottom: 1px solid rgba(255, 255, 255, 0.08); }
+        .filter-row .form-group { flex: 1; min-width: 140px; margin-bottom: 0; }
+        .filter-row .form-group.matricula-group { min-width: 180px; }
         .btn-success { background: linear-gradient(135deg, #10b981 0%, #059669 100%); border-color: #10b981; }
         .btn-success:hover { background: linear-gradient(135deg, #059669 0%, #047857 100%); transform: translateY(-2px); box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4); }
         .table-actions { display: flex; flex-wrap: wrap; gap: 6px; justify-content: center; }
+        .filter-info { background: rgba(59, 130, 246, 0.1); border: 1px solid rgba(59, 130, 246, 0.3); border-radius: var(--radius-lg); padding: 12px 16px; margin-bottom: 16px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+        .filter-info-text { color: var(--color-gray-300); font-size: 0.875rem; display: flex; align-items: center; gap: 8px; }
+        .filter-info-text i { color: #60a5fa; }
+        .filter-info-text strong { color: var(--color-white); }
+        .btn-outline { background: transparent; border: 1px solid rgba(255, 255, 255, 0.2); color: var(--color-gray-300); }
+        .btn-outline:hover { background: rgba(255, 255, 255, 0.05); border-color: var(--color-accent); color: var(--color-accent-light); }
     </style>
 </head>
 <body>
@@ -177,32 +203,68 @@ $meses = [1 => 'janeiro', 2 => 'fevereiro', 3 => 'março', 4 => 'abril', 5 => 'm
                         <span class="card-title-icon"><i class="fa-solid fa-clock-rotate-left"></i></span>
                         Histórico de Matrículas Convertidas
                         <?php if (!empty($arquivos)) : ?>
-                            <span class="badge badge-info" style="margin-left: 12px;"><?= count($arquivos) ?> registros</span>
+                            <span class="badge badge-info" style="margin-left: 12px;"><?= $totalRegistros ?> total</span>
                         <?php endif; ?>
                     </h3>
                 </div>
                 <div class="card-body">
                     <!-- Filtros -->
                     <form method="GET" class="filter-row" id="formFiltro">
+                        <div class="form-group matricula-group">
+                            <label class="form-label">Nº Matrícula</label>
+                            <input type="text" name="matricula" class="form-control" placeholder="Ex: 00012345" value="<?= htmlspecialchars($matriculaPesquisa) ?>">
+                        </div>
                         <div class="form-group">
                             <label class="form-label">Data Inicial</label>
-                            <input type="date" name="dtinicial" class="form-control" value="<?= $_GET['dtinicial'] ?? '' ?>">
+                            <input type="date" name="dtinicial" class="form-control" value="">
                         </div>
                         <div class="form-group">
                             <label class="form-label">Data Final</label>
-                            <input type="date" name="dtfinal" class="form-control" value="<?= $_GET['dtfinal'] ?? '' ?>">
+                            <input type="date" name="dtfinal" class="form-control" value="<?= htmlspecialchars($dataFinalPadrao) ?>">
                         </div>
                         <div>
                             <button type="submit" class="btn btn-primary">
-                                <i class="fa-solid fa-search"></i> Buscar
+                                <i class="fa-solid fa-search"></i> Filtrar
                             </button>
                         </div>
                         <div>
+                            <a href="historico.php?todos=1" class="btn btn-outline">
+                                <i class="fa-solid fa-list"></i> Ver Todos
+                            </a>
+                        </div>
+                        <div>
                             <a href="historico.php" class="btn btn-secondary">
-                                <i class="fa-solid fa-times"></i> Limpar
+                                <i class="fa-solid fa-rotate-left"></i> Última Semana
                             </a>
                         </div>
                     </form>
+                    
+                    <!-- Informação do filtro aplicado -->
+                    <?php if (!$mostrarTodos): ?>
+                    <div class="filter-info">
+                        <span class="filter-info-text">
+                            <i class="fa-solid fa-filter"></i>
+                            <?php if (!empty($matriculaPesquisa)): ?>
+                                Pesquisando matrícula: <strong><?= htmlspecialchars($matriculaPesquisa) ?></strong>
+                            <?php elseif (!empty($dataInicialPadrao) && !empty($dataFinalPadrao)): ?>
+                                Exibindo registros de <strong><?= date('d/m/Y', strtotime($dataInicialPadrao)) ?></strong> até <strong><?= date('d/m/Y', strtotime($dataFinalPadrao)) ?></strong>
+                            <?php elseif (!empty($dataInicialPadrao)): ?>
+                                Exibindo registros a partir de <strong><?= date('d/m/Y', strtotime($dataInicialPadrao)) ?></strong>
+                            <?php elseif (!empty($dataFinalPadrao)): ?>
+                                Exibindo registros até <strong><?= date('d/m/Y', strtotime($dataFinalPadrao)) ?></strong>
+                            <?php else: ?>
+                                Exibindo registros da <strong>última semana</strong>
+                            <?php endif; ?>
+                        </span>
+                    </div>
+                    <?php else: ?>
+                    <div class="filter-info">
+                        <span class="filter-info-text">
+                            <i class="fa-solid fa-database"></i>
+                            Exibindo <strong>todos</strong> os registros
+                        </span>
+                    </div>
+                    <?php endif; ?>
                     
                     <?php if (empty($arquivos)) : ?>
                         <div class="empty-state">
@@ -223,37 +285,42 @@ $meses = [1 => 'janeiro', 2 => 'fevereiro', 3 => 'março', 4 => 'abril', 5 => 'm
                                 </thead>
                                 <tbody>
                                     <?php 
-                                    // Por padrão mostra todos, só filtra se tiver datas definidas
-                                    $filtrar_data = (isset($_GET['dtinicial']) && !empty($_GET['dtinicial'])) || (isset($_GET['dtfinal']) && !empty($_GET['dtfinal']));
-                                    
+                                    // Aplicar filtros
                                     $inicio_filtro = null;
                                     $fim_filtro = null;
                                     
-                                    if (isset($_GET['dtinicial']) && !empty($_GET['dtinicial'])) {
-                                        $inicio_filtro = strtotime($_GET['dtinicial']);
+                                    if (!empty($dataInicialPadrao)) {
+                                        $inicio_filtro = strtotime($dataInicialPadrao);
                                     }
-                                    if (isset($_GET['dtfinal']) && !empty($_GET['dtfinal'])) {
-                                        $fim_filtro = strtotime($_GET['dtfinal'] . ' 23:59:59');
+                                    if (!empty($dataFinalPadrao)) {
+                                        $fim_filtro = strtotime($dataFinalPadrao . ' 23:59:59');
                                     }
                                     
                                     foreach ($arquivos as $arquivo):
                                         $data_timestamp = filemtime($arquivo);
+                                        $matricula = str_replace('.tiff', '', basename($arquivo));
                                         
-                                        // Se não tem filtro, mostra tudo. Se tem, aplica o filtro
-                                        $mostrar = true;
-                                        if ($filtrar_data) {
-                                            if ($inicio_filtro !== null && $data_timestamp < $inicio_filtro) {
-                                                $mostrar = false;
-                                            }
-                                            if ($fim_filtro !== null && $data_timestamp > $fim_filtro) {
-                                                $mostrar = false;
+                                        // Aplicar filtro de matrícula
+                                        if (!empty($matriculaPesquisa)) {
+                                            // Pesquisa parcial (contém o texto)
+                                            if (strpos($matricula, $matriculaPesquisa) === false) {
+                                                continue;
                                             }
                                         }
                                         
-                                        if ($mostrar):
-                                            $matricula = str_replace('.tiff', '', basename($arquivo));
-                                            $dataConversao = date('d/m/Y', filemtime($arquivo));
-                                            $horaConversao = date('H:i:s', filemtime($arquivo));
+                                        // Aplicar filtro de data (se não for "ver todos")
+                                        if (!$mostrarTodos) {
+                                            if ($inicio_filtro !== null && $data_timestamp < $inicio_filtro) {
+                                                continue;
+                                            }
+                                            if ($fim_filtro !== null && $data_timestamp > $fim_filtro) {
+                                                continue;
+                                            }
+                                        }
+                                        
+                                        $registrosFiltrados++;
+                                        $dataConversao = date('d/m/Y', $data_timestamp);
+                                        $horaConversao = date('H:i:s', $data_timestamp);
                                     ?>
                                         <tr>
                                             <td>
@@ -280,11 +347,17 @@ $meses = [1 => 'janeiro', 2 => 'fevereiro', 3 => 'março', 4 => 'abril', 5 => 'm
                                                 </div>
                                             </td>
                                         </tr>
-                                    <?php 
-                                        endif;
-                                    endforeach; ?>
+                                    <?php endforeach; ?>
                                 </tbody>
                             </table>
+                        </div>
+                        
+                        <!-- Contador de registros filtrados -->
+                        <div style="margin-top: 16px; padding-top: 16px; border-top: 1px solid rgba(255,255,255,0.08); text-align: center;">
+                            <span style="color: var(--color-gray-400); font-size: 0.875rem;">
+                                <i class="fa-solid fa-chart-simple"></i>
+                                Exibindo <strong style="color: var(--color-accent-light);"><?= $registrosFiltrados ?></strong> de <strong style="color: var(--color-white);"><?= $totalRegistros ?></strong> registros
+                            </span>
                         </div>
                     <?php endif; ?>
                 </div>
@@ -336,7 +409,7 @@ $meses = [1 => 'janeiro', 2 => 'fevereiro', 3 => 'março', 4 => 'abril', 5 => 'm
                     "lengthMenu": "_MENU_ resultados por página",
                     "loadingRecords": "Carregando...",
                     "processing": "Processando...",
-                    "search": "Pesquisar:",
+                    "search": "Pesquisar na tabela:",
                     "zeroRecords": "Nenhum registro encontrado",
                     "paginate": {
                         "first": "Primeiro",
@@ -345,8 +418,10 @@ $meses = [1 => 'janeiro', 2 => 'fevereiro', 3 => 'março', 4 => 'abril', 5 => 'm
                         "previous": "Anterior"
                     }
                 },
-                order: [[0, 'desc']],
-                pageLength: 25
+                order: [[1, 'desc'], [2, 'desc']], // Ordenar por data e hora desc
+                pageLength: 25,
+                searching: true, // Habilitar busca do DataTable
+                dom: '<"top"lf>rt<"bottom"ip><"clear">' // Layout padrão com busca
             });
             <?php endif; ?>
             
@@ -447,7 +522,7 @@ $meses = [1 => 'janeiro', 2 => 'fevereiro', 3 => 'março', 4 => 'abril', 5 => 'm
         // Filtro de data - Loading
         document.getElementById('formFiltro').addEventListener('submit', function() {
             document.getElementById('loadingTitle').textContent = 'Filtrando...';
-            document.getElementById('loadingText').textContent = 'Buscando registros no período selecionado.';
+            document.getElementById('loadingText').textContent = 'Buscando registros com os filtros selecionados.';
             document.getElementById('loadingModal').classList.add('active');
         });
         
