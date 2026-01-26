@@ -23,29 +23,57 @@ $msg_success = null;
 $msg_error = null;
 
 if(isset($_FILES['xml_file'])) {
-    $target_dir = "indicador-pessoal/";
-    $history_dir = "historico-indicador/";
-
-    $files = glob($target_dir . "*");
-    foreach($files as $file){
-        if(is_file($file)) unlink($file);
+    // Usar caminhos absolutos baseados no diretório do script
+    $target_dir = __DIR__ . DIRECTORY_SEPARATOR . "indicador-pessoal" . DIRECTORY_SEPARATOR;
+    $history_dir = __DIR__ . DIRECTORY_SEPARATOR . "historico-indicador" . DIRECTORY_SEPARATOR;
+    
+    // Verificar se os diretórios existem, criar se necessário
+    if (!is_dir($target_dir)) {
+        @mkdir($target_dir, 0775, true);
     }
+    if (!is_dir($history_dir)) {
+        @mkdir($history_dir, 0775, true);
+    }
+    
+    // Verificar permissões de escrita
+    if (!is_writable($target_dir)) {
+        $msg_error = "Erro: Sem permissão de escrita na pasta de destino. Contate o administrador.";
+    } else {
+        // Limpar arquivos antigos do diretório de destino
+        $files = glob($target_dir . "*");
+        foreach($files as $file){
+            if(is_file($file) && basename($file) !== 'index.php') {
+                @unlink($file);
+            }
+        }
 
-    $target_file = $target_dir . basename($_FILES['xml_file']['name']);
-    $history_file = $history_dir . basename($_FILES['xml_file']['name']);
-    $file_type = strtolower(pathinfo($target_file, PATHINFO_EXTENSION));
+        $target_file = $target_dir . basename($_FILES['xml_file']['name']);
+        $history_file = $history_dir . basename($_FILES['xml_file']['name']);
+        $file_type = strtolower(pathinfo($target_file, PATHINFO_EXTENSION));
 
-    if($file_type == "xml") {
-        if(move_uploaded_file($_FILES['xml_file']['tmp_name'], $target_file)) {
+        // Verificar código de erro do upload
+        $upload_error = $_FILES['xml_file']['error'];
+        if ($upload_error !== UPLOAD_ERR_OK) {
+            $error_messages = [
+                UPLOAD_ERR_INI_SIZE => "O arquivo excede o tamanho máximo permitido pelo servidor.",
+                UPLOAD_ERR_FORM_SIZE => "O arquivo excede o tamanho máximo permitido pelo formulário.",
+                UPLOAD_ERR_PARTIAL => "O upload foi interrompido. Tente novamente.",
+                UPLOAD_ERR_NO_FILE => "Nenhum arquivo foi enviado.",
+                UPLOAD_ERR_NO_TMP_DIR => "Pasta temporária não encontrada no servidor.",
+                UPLOAD_ERR_CANT_WRITE => "Falha ao gravar o arquivo no servidor.",
+                UPLOAD_ERR_EXTENSION => "Upload bloqueado por uma extensão do PHP."
+            ];
+            $msg_error = $error_messages[$upload_error] ?? "Erro desconhecido no upload (código: $upload_error).";
+        } elseif($file_type != "xml") {
+            $msg_error = "Por favor, selecione um arquivo XML válido.";
+        } elseif(move_uploaded_file($_FILES['xml_file']['tmp_name'], $target_file)) {
             $msg_success = "Arquivo XML anexado com sucesso!";
-            if(copy($target_file, $history_file)) {
+            if(@copy($target_file, $history_file)) {
                 $msg_success .= " Disponível para visualização.";
             }
         } else {
-            $msg_error = "Erro ao anexar o arquivo.";
+            $msg_error = "Erro ao anexar o arquivo. Verifique as permissões da pasta.";
         }
-    } else {
-        $msg_error = "Por favor, selecione um arquivo XML válido.";
     }
 }
 
